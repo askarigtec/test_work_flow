@@ -1,0 +1,11 @@
+Dual License
+
+This project is dual-licensed.
+
+You may choose to use this project under the terms of the GNU General Public License version 3, or (at your option) any later version, as provided in LICENSE.GPLv3.
+
+Alternatively, the project is available under a commercial/proprietary license for use under different terms. For commercial licensing enquiries or to purchase a commercial license, contact: commercial@askarigtec (placeholder) or provide a URL/email and I will update this file.
+
+SPDX expression: GPL-3.0-or-later OR LicenseRef-Proprietary
+
+The full GPLv3 text is included in LICENSE.GPLv3. The proprietary license terms (if any) are included in LICENSE.PROPRIETARY.
